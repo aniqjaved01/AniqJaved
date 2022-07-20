@@ -43,5 +43,5 @@ I am a 3rd-year computer science student with  interests in emerging computer te
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniqjaved&theme=github_dark&langs_count=8&layout=compact" />
 </a>
 <a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniqjaved&theme=github_dark" />
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=aniqjaved&theme=github-dark" />
 </a>
