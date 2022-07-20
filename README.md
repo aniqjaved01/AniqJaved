@@ -36,9 +36,12 @@ I am a 3rd-year computer science student with  interests in emerging computer te
 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/aniqjaved/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aniqjaved&show_icons=true&theme=github_dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/aniqjaved/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniqjaved&theme=github_dark&langs_count=8&layout=compact" />
+</a>
+<a href="https://git.io/streak-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniqjaved" />
 </a>
