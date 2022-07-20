@@ -35,13 +35,16 @@ I am a 3rd-year computer science student with  interests in emerging computer te
 <h2>Github Stats</h2>
 
 
+<div>
+  <a href="https://github.com/aniqjaved/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=aniqjaved&show_icons=true&theme=github_dark" style="max-width: 20% !important;" />
+  </a>
+  <a href="https://github.com/aniqjaved/convoychat">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniqjaved&theme=github_dark&langs_count=8&layout=compact" />
+  </a>
+</div>
 
-<a href="https://github.com/aniqjaved/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniqjaved&show_icons=true&theme=github_dark" style="max-width: 20% !important;" />
-</a>
-<a href="https://github.com/aniqjaved/convoychat">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniqjaved&theme=github_dark&langs_count=8&layout=compact" />
-</a>
+
 <a href="https://git.io/streak-stats">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=aniqjaved&theme=github-dark" />
 </a>
