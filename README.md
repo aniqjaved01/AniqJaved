@@ -3,9 +3,7 @@
 I am a 3rd-year computer science student with  interests in emerging computer technologies. I love to explore and implement these new technologies for the betterment of humanity. Currently, I am working on the MERN stack.
 
 
-<h3>Technology Stack</h3>
-
-<h3 align="left">Languages and Tools:</h3>
+<h2>Technology Stack</h2>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
