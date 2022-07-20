@@ -31,6 +31,11 @@ I am a 3rd-year computer science student with  interests in emerging computer te
   </a> 
 </p>
 
+
+<h2>Github Stats</h2>
+
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aniqjaved&show_icons=true&theme=github_dark" />
 </a>
