@@ -35,7 +35,7 @@ I am a 3rd-year computer science student with  interests in emerging computer te
 <h2>Github Stats</h2>
 
 
-<div>
+<div style="display: flex;>
   <a href="https://github.com/aniqjaved/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=aniqjaved&show_icons=true&theme=github_dark" style="max-width: 20% !important;" />
   </a>
