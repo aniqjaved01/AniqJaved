@@ -1,6 +1,6 @@
 <img src="banner.png"/>
 
-I am software engineer with interests in emerging computer technologies. I love to explore and implement these new technologies for the betterment of humanity. Currently, I am working on the MERN stack.
+I am data scientist with interests in emerging AI technologies. I love to explore and implement these new technologies for the betterment of humanity. Currently, I am working on the data analytics.
 
 <p>Connect with me on ✅<a href="https://www.linkedin.com/in/aniq-javed/">LinkedIn</a></p>
 
